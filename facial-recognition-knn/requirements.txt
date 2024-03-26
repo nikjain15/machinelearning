@@ -1,1 +1,6 @@
+# Requirements
+
+numpy
+scipy
+matplotlib
 
